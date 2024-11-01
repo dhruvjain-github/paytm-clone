@@ -1,6 +1,7 @@
 const express= require("express")
 const {signup,signin,update}=require("../controller/usercontroller")
 const {authMiddleware}=require("../middleware")
+const {User}=require("../db")
 const router=express.Router()
 
 router.post("/signup",signup)
