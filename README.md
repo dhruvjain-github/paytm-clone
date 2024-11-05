@@ -12,7 +12,6 @@ This project is a basic Paytm clone developed using the MERN (MongoDB, Express, 
 - [Future Enhancements](#future-enhancements)
 - [License](#license)
 
- 
 ## Features
 - **User Authentication**: Secure Sign-in and Sign-up with password hashing.
 - **Search Users**: Find other registered users by username or email.
